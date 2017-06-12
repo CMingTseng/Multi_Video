@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Multi_Video</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="item_test_text1">Pos: %1$s, VH: %2$s (%3$s)</string>
+    <string name="item_test_text2">%1$s</string>
+</resources>
